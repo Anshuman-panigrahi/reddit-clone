@@ -1,0 +1,2 @@
+/* App-level resets — page styles live in Login.css / Home.css */
+*, *::before, *::after { box-sizing: border-box; }
